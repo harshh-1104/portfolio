@@ -1,0 +1,37 @@
+window + . to open emoji icons
+
+tel for calling
+
+content delivery network
+
+<span class="bi bi-whatsapp"></span>    bootstrap icon=bi
+
+
+for free wa api postcron
+
+for removing link underline
+text-decoration: none
+
+home page-absolute url
+in home page urls-relative url
+
+
+
+
+====head===
+
+6 types
+
+meta=character set of code                ex->emoji
+            compatible with all web browser
+            to make responsive		
+title
+style
+link
+script
+noscript
+
+
+
+
+
